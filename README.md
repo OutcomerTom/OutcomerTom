@@ -17,7 +17,7 @@ My Wordpress sites:
 
 Archival websites:
 
-[Artist Bio |](http://web.archive.org/web/20130715021522/http://www.outcomer.com/)
+[Artist Bio](http://web.archive.org/web/20130715021522/http://www.outcomer.com/)
 
 [Twin Fabrikka](http://web.archive.org/web/20180117225241/http://twinfabrikka.com/)
 
