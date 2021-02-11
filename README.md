@@ -5,7 +5,9 @@ For the last several years I have been dealing with graphic design. It was a nat
 I use **HTML**, **CSS** and **javascript** on a daily basis. I use **Bootstrap**, **Vue.js**, **Git** and **GitHub**, and also Adobe’s graphics toolkit. 
 
 I pay attention to details, which is a consequence of my previous professional experience.
-I am a meticulous and conscientious person. I have communication skills and I am proactive.
+I am a meticulous and conscientious person. 
+
+I have communication skills and I am proactive.
 I am characterized by out of the box thinking.
 
 
