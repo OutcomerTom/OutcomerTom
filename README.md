@@ -2,7 +2,7 @@
 
 For the last several years I have been dealing with graphic design. It was a natural step for me to become a front end developer. 
 
-I use **HTML**, **CSS** and **javascript** on a daily basis. I use **Bootstrap**, **Vue.js**, **Git** and **GitHub**, and also Adobe’s graphics toolkit. 
+I use **HTML**, **CSS** and **javascript** on a daily basis. I use **Bootstrap**, **Vanilla JS**, **Git** and **GitHub**, and also Adobe’s graphics toolkit. 
 
 I pay attention to details, which is a consequence of my previous professional experience.
 I am a meticulous and conscientious person. 
