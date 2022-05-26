@@ -11,11 +11,7 @@ I have communication skills and I am proactive.
 I am characterized by out of the box thinking.
 
 
-My Wordpress sites:
-
-[Artist portfolio](tom.outcomer.com)
-
-Archival websites:
+Archival wordpress websites:
 
 [Artist Bio](http://web.archive.org/web/20130715021522/http://www.outcomer.com/)
 
