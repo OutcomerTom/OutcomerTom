@@ -2,10 +2,10 @@
 
 I have several years of experience in graphic design including web technologies; like World Press, WooCommerce, and archaic Flash. 
 I used to do Web banners, and Allegro templates in PHP, and design Websites, single pages, mini-sites, and landing pages from scratch.
-Now, I work with **front-end stack technologies**, such as Vanilla JS, HTML, CSS, React, Redux, Git, GitHub, Bootstrap, MUI, netlify, etc. 
+Now, I work with **front-end stack technologies**, such as Vanilla JS, HTML, CSS, React, Redux, Git, GitHub, Bootstrap, MUI, netlify, etc.  
 How can I help you? 
 
-Archival wordpress websites:
+Archival WordPress websites:
 
 [Twin Fabrikka](http://web.archive.org/web/20180117225241/http://twinfabrikka.com/)
 
