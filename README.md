@@ -1,21 +1,15 @@
 ### Hi, I am Tom 👋
 
-For the last several years I have been dealing with graphic design. It was a natural step for me to become a front end developer. 
-
-I use **HTML**, **CSS** and **javascript** on a daily basis. I use **React**, **Redux**, **Vanilla JS**, **Bootstrap**, **Git** and **GitHub**, and also Adobe’s graphics toolkit. 
-
-I pay attention to details, which is a consequence of my previous professional experience.
-I am a meticulous and conscientious person. 
-
-I have communication skills and I am proactive.
-I am characterized by out of the box thinking.
-
+I have several years of experience in graphic design including web technologies; like World Press, WooCommerce, and archaic Flash. 
+I used to do Web banners, and Allegro templates in PHP, and design Websites, single pages, mini-sites, and landing pages from scratch.
+Now, I work with **front-end stack technologies**, such as Vanilla JS, HTML, CSS, React, Redux, Git, GitHub, Bootstrap, MUI, netlify, etc. 
+How can I help you? 
 
 Archival wordpress websites:
 
-[Artist Bio](http://web.archive.org/web/20130715021522/http://www.outcomer.com/)
-
 [Twin Fabrikka](http://web.archive.org/web/20180117225241/http://twinfabrikka.com/)
+
+[Artist Bio](http://web.archive.org/web/20130715021522/http://www.outcomer.com/)
 
 <!--
 **OutcomerTom/OutcomerTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
